@@ -35,7 +35,7 @@ namespace WindowsFormsEmpleado
                 {
                     int resultado = empleado.guardar(empleado);
 
-
+                    //''''''
 
                     if (resultado == 1)
                     {
